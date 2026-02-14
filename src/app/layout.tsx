@@ -3,8 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Play this game Mindy.",
-  description:
-    "Play a unique Valentine's card game. Complete the collection to reveal a romantic proposal!",
+  description: "Card matching game!",
   keywords: [
     "Valentine's card game",
     "romantic proposal game",
